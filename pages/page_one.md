@@ -11,8 +11,8 @@ In addition to collaboration and transparency, open source software can reduce r
 Overall, open source software offers several advantages to individual users, researchers, organisations, and developers by enabling collaboration, verification, and independent development.
 
 ## References
-https://opensource.org/education/what-is-open-source
+Open Source Initiative (n.d.). *What is Open Source?*. Visited on 3 November 2026. https://opensource.org/education/what-is-open-source
 
-https://opensource.com/resources/what-open-source
+Opensource.com (n.d.). *What is open source?*. Visited on 3 November 2026. https://opensource.com/resources/what-open-source
 
-https://www.libreoffice.org/libreoffice-timeline/
+The Document Foundation (n.d.). *LibreOffice Timeline*. Visited on 3 November 2026. https://www.libreoffice.org/libreoffice-timeline/

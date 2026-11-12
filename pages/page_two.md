@@ -7,8 +7,8 @@ This openness can also be taken advantage of by attackers. In March 2024, a hidd
 Having access to the source code does not necessarily mean participating in the decision-making process. For example, many developers contribute to the Linux kernel, but Linus Torvalds is responsible for merging changes into its mainline repository. A strong leader can help a project develop in a consistent direction, but even an experienced leader can make poor decisions. Therefore, users and developers should be aware of these disadvantages when using or contributing to open source software.
 
 ## References
-https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software
+nibusinessinfo.co.uk (n.d.). *Disadvantages of open source software*. Visited on 3 November 2026. https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software
 
-https://daily.dev/blog/xz-backdoor-the-full-story-in-one-place/
+Alex Carter (2024). *XZ Backdoor: The full story in one place*. Visited on 3 November 2026. https://daily.dev/blog/xz-backdoor-the-full-story-in-one-place/
 
-https://docs.kernel.org/process/2.Process.html
+Jonathan Corbet (n.d.). *How the development process works*. Visited on 3 November 2026. https://docs.kernel.org/process/2.Process.html

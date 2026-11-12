@@ -1,6 +1,6 @@
 # Zotero: An Open Source Project for European Studies
 
-Zotero is a free, open-source research tool for collecting, organising, citing, and sharing sources (Zotero, n.d.). Originally, it was created at George Mason University, but now it is a project of the Corporation for Digital Scholarship, a nonprofit organisation.
+Zotero is a free, open-source research tool for collecting, organising, citing, and sharing sources. Originally, it was created at George Mason University, but now it is a project of the Corporation for Digital Scholarship, a nonprofit organisation.
 
 It would be useful in European Studies when writing a paper on EU policies. Students can use Zotero to collect and organise research materials, such as official EU documents and academic articles. It also helps them manage citations and create reference lists.
 
@@ -11,18 +11,18 @@ As of November 3, 2026, the latest commit was about fixing a Word plugin install
 I would use Zotero for my thesis because it has been updated recently, with many developers contributing to it and some issues receiving replies. It is well known as a research and reference management tool. Since Zotero allows users to export their references, I could switch to another reference management tool if I have to leave Zotero.
 
 ## References
-https://www.zotero.org/
+Zotero (n.d.). *Your personal research assistant*. Visited on 3 November 2026. https://www.zotero.org/
 
-https://www.zotero.org/about/
+Zotero (n.d.). *About*. Visited on 3 November 2026. https://www.zotero.org/about/
 
-https://github.com/zotero/zotero?tab=License-1-ov-file
+Zotero (n.d.). *License*. Visited on 3 November 2026. https://github.com/zotero/zotero?tab=License-1-ov-file
 
-https://github.com/zotero/zotero/commit/b38562adc2b0185428fa534850f32a49d37efe38
+dstillman (2026). *Commit b38562a*. Visited on 3 November 2026. https://github.com/zotero/zotero/commit/b38562adc2b0185428fa534850f32a49d37efe38
 
-https://github.com/zotero/zotero/graphs/contributors?all=1
+Zotero (n.d.). *Contributors*. Visited on 3 November 2026. https://github.com/zotero/zotero/graphs/contributors?all=1
 
-https://github.com/zotero/zotero/issues
+Zotero (n.d.). *Issues*. Visited on 3 November 2026. https://github.com/zotero/zotero/issues
 
-https://www.zotero.org/getinvolved
+Zotero (n.d.). *Get Involved With Zotero*. Visited on 3 November 2026. https://www.zotero.org/getinvolved
 
-https://www.zotero.org/support/preferences/export
+Zotero (2024). *Export*. Visited on 3 November 2026. https://www.zotero.org/support/preferences/export
