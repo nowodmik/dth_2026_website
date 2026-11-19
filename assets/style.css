@@ -234,3 +234,8 @@ main img {
 #carouselBtnContainer {
   display: none;
 }
+
+#totalCount {
+  align-self: center;
+  margin: 0;
+}
